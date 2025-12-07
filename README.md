@@ -15,3 +15,6 @@ This project demonstrates a predictive maintenance pipeline for industrial engin
 - Git & GitHub for version control  
 - VS Code for development  
 
+## Visualization 
+<img width="1238" height="547" alt="output" src="https://github.com/user-attachments/assets/e0891524-43ca-4b8a-be00-0368f471a834" />
+<img width="868" height="701" alt="output2" src="https://github.com/user-attachments/assets/894f7f36-0812-47dc-a08e-4f120738ecaa" />
